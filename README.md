@@ -4,3 +4,5 @@ Fully functioning finished sample code for my Securing ASP.NET Core 2 with OAuth
 The course can be found at https://app.pluralsight.com/library/courses/securing-aspdotnet-core2-oauth2-openid-connect/table-of-contents
 
 Happy coding! :)
+
+NOTE: this repository has been archived.  The new one can be found here: https://github.com/KevinDockx/SecuringAspNetCore3WithOAuth2AndOIDC
